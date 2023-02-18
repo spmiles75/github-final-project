@@ -8,7 +8,7 @@ A calculator that calculates simple interest given principal, annual rate of int
 ``r, annual rate of interest
 ```
 
-##Output
+## Output
 ```
 ``simple interest = p*t*r
 ```
